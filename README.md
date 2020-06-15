@@ -6,7 +6,7 @@ SQLite was used for databases.
 
 The project included development specification and prerequisites, design and product testing.
 
-Included: Observer design templates, Singleton, Factory and MVC architecture.
+Included Design Patterns: Observer, Singleton, Factory and MVC architecture.
 
 ## Screenshots:
 ![Login](https://github.com/eliadgavri/CarRental/raw/master/ScreenShots/Login.png)
